@@ -1,15 +1,16 @@
-# Basic Sample Hardhat Project
+# Basic Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
+***Aim of the Project:***
+- Write contracts in Solidity
+- Use OpenZeppelin library for generating smart contracts
+- Minting an NFT
+- Deploying the NFT on OpenSea's testing server using Rinkeby
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+<br/>
+
+---
+
+**DISCLAIMER: <br/>**
+I do not own the image used for the project, or the one deployed on the testing server of OpenSea. The use of the image was for educational purposes only!
